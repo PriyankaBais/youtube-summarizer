@@ -1,5 +1,5 @@
 import re
-import webvtt
+import requests
 import io
 import streamlit as st
 import yt_dlp
