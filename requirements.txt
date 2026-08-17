@@ -1,5 +1,6 @@
 streamlit
 yt-dlp
+requests
 transformers
 torch
 youtube-transcript-api
