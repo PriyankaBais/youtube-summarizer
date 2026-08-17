@@ -48,4 +48,4 @@ demo = gr.Interface(
     description="Enter a YouTube video link to extract its transcript and generate an AI summary."
 )
 
-demo.launch(share=False, server_name="127.0.0.1", server_port=7860)
+demo.launch(inline=True)
