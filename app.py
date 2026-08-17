@@ -1,5 +1,5 @@
 import re
-import gradio as gr
+import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
 from transformers import pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
 
