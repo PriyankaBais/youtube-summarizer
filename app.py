@@ -94,3 +94,4 @@ if st.button("Summarize"):
                     st.write(" ".join(summaries))
                 except Exception as e:
                     st.error(f"Error processing video transcript: {str(e)}")
+                
