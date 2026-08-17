@@ -1,5 +1,5 @@
 streamlit
-gradio
+yt-dlp
 transformers
 torch
 youtube-transcript-api
