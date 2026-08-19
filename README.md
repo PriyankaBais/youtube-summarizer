@@ -57,6 +57,7 @@ youtube-summarizer/
 ├── app.py              # Main application logic & Streamlit UI
 ├── requirements.txt    # Application dependencies
 └── README.md           # Project documentation
+```
 
 ### 🌐 Live Production Deployment
 
