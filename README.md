@@ -2,7 +2,7 @@
 
 An AI-powered web application engineered to extract transcripts from YouTube videos and generate concise, coherent summaries using Hugging Face's `distilbart-cnn-12-6` Transformer model. Built with **Streamlit** and **yt-dlp**, this tool handles transcript extraction dynamically and bypasses cloud IP restrictions.
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?style=for-the-badge&logo=streamlit)](https://youtube-summarizer-9xv2juwyn6oanxu9idwwj3.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?style=for-the-badge&logo=streamlit)](https://youtube-summarizer-ctugghcb2zabd6c8lzwpef.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App%20Framework-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-distilbart--cnn-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
