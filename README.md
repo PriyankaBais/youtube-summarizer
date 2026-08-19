@@ -12,7 +12,7 @@ An AI-powered web application engineered to extract transcripts from YouTube vid
 
 ## 🚀 Live Demo
 
-* **Live Web App:** [youtube-summarizer.streamlit.app](https://youtube-summarizer-9xv2juwyn6oanxu9idwwj3.streamlit.app/)
+* **Live Web App:** [youtube-summarizer.streamlit.app](https://youtube-summarizer-ctugghcb2zabd6c8lzwpef.streamlit.app/)
 * **Repository:** [github.com/PriyankaBais/youtube-summarizer](https://github.com/PriyankaBais/youtube-summarizer)
 
 ---
