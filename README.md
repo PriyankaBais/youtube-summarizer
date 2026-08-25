@@ -10,13 +10,6 @@ An AI-powered web application engineered to extract transcripts from YouTube vid
 
 ---
 
-## 🚀 Live Demo
-
-* **Live Web App:** [youtube-summarizer.streamlit.app](https://youtube-summarizer-ctugghcb2zabd6c8lzwpef.streamlit.app/)
-* **Repository:** [github.com/PriyankaBais/youtube-summarizer](https://github.com/PriyankaBais/youtube-summarizer)
-
----
-
 ## ✨ Features
 
 * **Instant Transcript Extraction:** Leverages `yt-dlp` to fetch auto-generated or manual English subtitles directly from YouTube, bypassing standard cloud IP blocks.
@@ -58,9 +51,4 @@ youtube-summarizer/
 ├── requirements.txt    # Application dependencies
 └── README.md           # Project documentation
 ```
-
-### 🌐 Live Production Deployment
-
-The project is deployed and live on Streamlit Cloud:  
-🔗 **[ YouTube Video Summarizer AI](https://youtube-summarizer-ctugghcb2zabd6c8lzwpef.streamlit.app/)**
 
